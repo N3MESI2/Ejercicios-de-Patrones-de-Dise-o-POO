@@ -145,3 +145,8 @@ Uso educativo – libre para estudio y mejora.
 | Python demo | `%cd ejercicio1/python; !python -m notifications.demo` |
 | Java demo | `%cd ejercicio1/java; !find src -name "*.java" | xargs javac -d out; !java -cp out Main` |
 
+
+![1b1bd4bc-4549-448e-8c8e-a764a7d1bc26](https://github.com/user-attachments/assets/30c01a02-eaa2-44e1-b070-80e25461dd73)
+![71bd7835-57da-4ba7-b445-65e7680d2886](https://github.com/user-attachments/assets/a4683a1c-5b91-4915-8369-8ff426755bd9)
+![9be640b6-6ddc-4308-9663-da2e86c1112e](https://github.com/user-attachments/assets/efd9eaa9-9673-4a98-bf02-15929db07756)
+
