@@ -126,7 +126,7 @@ Luego, por cada ejercicio:
 ---
 
 ## Créditos
-Autor: Tomás Mieres  
+Autor: Romero Baylac Tomas  
 Materia: Paradigmas y Lenguajes de Programación II – Universidad de la Cuenca del Plata
 
 ---
@@ -144,3 +144,4 @@ Uso educativo – libre para estudio y mejora.
 | Clonar repo | `!git clone https://github.com/N3MESI2/Ejercicios-de-Patrones-de-Dise-o-POO.git` |
 | Python demo | `%cd ejercicio1/python; !python -m notifications.demo` |
 | Java demo | `%cd ejercicio1/java; !find src -name "*.java" | xargs javac -d out; !java -cp out Main` |
+
